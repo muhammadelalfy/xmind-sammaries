@@ -1,0 +1,5 @@
+  Cannot write to directory "storage/app/public/posts"
+--->means acnt find this directory
+
+ 1366 Incorrect integer value: 'Et est hic.' for column `techdb`.`posts`.`approved` at row 1")
+----> means you send different value in factory of posts migration
